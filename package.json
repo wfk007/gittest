@@ -1,0 +1,23 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "compose.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wfk007/gittest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wfk007/gittest/issues"
+  },
+  "homepage": "https://github.com/wfk007/gittest#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "wfk-fp-rp": "^1.0.0"
+  }
+}
